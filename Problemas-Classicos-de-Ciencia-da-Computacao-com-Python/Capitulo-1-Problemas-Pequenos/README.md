@@ -21,8 +21,7 @@ seguinte expressão, com $ n\ge 1$:
 <br>
 
 $$
-F_n=\frac{1}{\sqrt{5}}\bigg(\frac{1+\sqrt{5}}{2} \bigg)^n 
-- \frac{1}{\sqrt{5}}\bigg(\frac{1-\sqrt{5}}{2} \bigg)^n
+F_n=\frac{1}{\sqrt{5}}\bigg(\frac{1+\sqrt{5}}{2} \bigg)^n - \frac{1}{\sqrt{5}}\bigg(\frac{1-\sqrt{5}}{2} \bigg)^n
 $$
 
 <br>
